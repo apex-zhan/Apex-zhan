@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+坤，坤，坤，程序猿练习生；时长亿年半，背带加中分;我觉得我应该去当一个程序员，因为我有编程天赋。只要你不停地练习，你就可以成为偶像.
 <!--
 **apex-zhan/Apex-zhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
