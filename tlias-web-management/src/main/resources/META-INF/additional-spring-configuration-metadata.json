@@ -1,0 +1,8 @@
+{
+  "properties": [
+    {
+      "name": "aliyun.oss.endpoint.accessKeyId",
+      "type": "java.lang.String",
+      "description": "Description for aliyun.oss.endpoint.accessKeyId."
+  }
+] }
