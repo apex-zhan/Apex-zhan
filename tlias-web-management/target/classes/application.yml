@@ -20,8 +20,8 @@ mybatis:
 aliyun:
   oss:
     endpoint: https://oss-cn-hangzhou.aliyuncs.com
-    accessKeyId: LTAI5tGRuLpiigepDD1FyEyC
-    accessKeySecret: f6yXEDMDjhFzidvnHFumGo7XW33SPz
+    accessKeyId: 
+    accessKeySecret: 
     bucketName: ikumzxw
 #事务管理aop
 logging:
